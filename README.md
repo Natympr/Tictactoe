@@ -11,6 +11,7 @@ The program checks if the game has ended. There are four possible outcomes: the 
 The machine responds with its move, and the game state is checked.
 
 <br>
+************************************************************************************
 <div style="border-top: 4px solid green;"></div>
 <br>
   
