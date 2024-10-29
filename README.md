@@ -28,6 +28,6 @@ El programa verifica si el juego ha terminado. Existen cuatro posibles veredicto
 La máquina responde con su movimiento y se verifica el estado del juego.
 
 
-para probar
+
 
 
